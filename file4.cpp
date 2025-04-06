@@ -2,8 +2,7 @@
 using namespace std;
 
 void recursive() {
-    cout << "Calling function\n";
-    recursive();  
+    cout << "Calling function\n"; 
 }
 
 int main() {
